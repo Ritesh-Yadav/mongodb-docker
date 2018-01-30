@@ -1,6 +1,7 @@
 # Docker For MongoDB
 
 This project is to created docker image of MongoDB with a user.
+[Read my post about this project](https://ritesh-yadav.github.io/tech/docker-instance-of-mongodb-with-ssl-support/)
 
 ## Pre-requisites
 1. Install docker in your machine from https://docs.docker.com/engine/installation/
