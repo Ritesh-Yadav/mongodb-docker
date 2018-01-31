@@ -1,0 +1,1 @@
+* Copy your ca.pem and mongodb.pem file in this folder.
